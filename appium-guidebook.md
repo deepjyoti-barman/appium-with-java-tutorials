@@ -86,6 +86,11 @@ Installing an `.ipa` file on an iPhone or iPad involves several methods, dependi
 If you have a Mac and an Apple Developer account, you can use Xcode to install an `.ipa` file:
 
 - Download and install **Xcode** from the Mac App Store.
+- Enable **Developer Mode** on your iPhone:
+  - Open **Settings**
+  - Click on **Privacy & Security**
+  - Scroll down to the bottom of the page and enable **Developer Mode**
+  - The above step might ask to restart your iPhone, if so the click on **Agree**
 - Connect your iPhone to your Mac using a USB cable.
 - Launch Xcode and go to **Window** > **Devices and Simulators**.
 - Choose your connected iPhone from the list on the left.
